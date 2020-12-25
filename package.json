@@ -1,0 +1,23 @@
+{
+  "name": "aike-ts",
+  "version": "1.0.0",
+  "description": "this project js tool project with lerna manage",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunmu/chunmu-sku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunmu/chunmu-sku/issues"
+  },
+  "homepage": "https://github.com/chunmu/chunmu-sku#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

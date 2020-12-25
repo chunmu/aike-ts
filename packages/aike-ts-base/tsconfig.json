@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["es6"],
+    "target": "esnext",
+    "module": "esnext",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true
+  },
+  "include": [
+    "./src",
+    "./__tests__"
+  ],
+  "exclude": ["node_modules"]
+}

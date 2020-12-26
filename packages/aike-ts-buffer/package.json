@@ -1,6 +1,6 @@
 {
   "name": "aike-ts-buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "buffer bundle",
   "author": "chunmu.zhang",
   "homepage": "https://github.com/chunmu/chunmu-sku/tree/master/packages/aike-ts-buffer#readme",
@@ -57,6 +57,6 @@
     "coverageProvider": "v8"
   },
   "dependencies": {
-    "aike-ts-base": "^0.0.1"
+    "aike-ts-base": "^0.0.2"
   }
 }
